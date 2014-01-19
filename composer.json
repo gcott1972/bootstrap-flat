@@ -1,0 +1,14 @@
+{
+    "name": "gcott1972/bootstrap-flat",
+    "description": "A simple flat theme for Twitter Bootstrap 3",
+    "authors": [
+        {
+            "name": "Greg Cotterman",
+            "email": "greg@gcott.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
